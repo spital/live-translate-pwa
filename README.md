@@ -13,7 +13,7 @@ TODO add video
 ## What it does today
 
 - **Live translation:** streams microphone audio and returns translated speech alongside a readable transcript, with 29 spoken target languages.
-- **Speech to text:** captures the original words in their original language, with automatic source-language detection.
+- **Speech to text:** transcribes speech in 60 languages, keeping the original words in their original language, with automatic source-language detection.
 - **Simple session controls:** choose a language, start a mode, and tap again to stop. Only one mode can run at a time.
 - **Useful transcripts:** selectable, copyable text, including final recognition corrections.
 - **Installable interface:** responsive layouts for phones and desktops, plus a cached application shell that opens offline. Translation requires an internet connection.
